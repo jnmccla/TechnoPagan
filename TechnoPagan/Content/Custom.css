@@ -15,5 +15,15 @@ body{
     background: lavender;
 }
 .carousel{
-    
+    width: 200px;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+.center-div
+{
+     margin: 0 auto;
+      
 }
