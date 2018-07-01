@@ -1,0 +1,19 @@
+﻿.navbar{
+    background: rebeccapurple;
+   
+}
+.navbar-inverse .navbar-brand {
+    color: antiquewhite;
+}
+.navbar-inverse:hover .navbar-brand:hover{
+    color: yellow;
+}
+body{
+    background: lightgrey;
+}
+.jumbotron {
+    background: lavender;
+}
+.carousel{
+    
+}
