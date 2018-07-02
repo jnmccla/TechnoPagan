@@ -216,6 +216,7 @@
     <Content Include="Content\Custom.css" />
     <Content Include="Content\favicon.ico" />
     <Content Include="Content\technology.jpg" />
+    <Content Include="Content\technologybackgroundyellow.jpg" />
     <Content Include="Content\tumblrlogo.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

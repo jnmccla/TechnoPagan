@@ -14,9 +14,14 @@
 .navbar-inverse:hover .navbar-brand:hover{
     color: yellow;
 }
-body{
-    background: lightgrey;
-    color: black;
+body {
+    /*background: lightgrey;*/
+    color: indigo;
+    background: #CBAF0E url('technologybackgroundyellow.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .jumbotron {
     background: lavender;
@@ -34,6 +39,12 @@ body{
 {
      margin: 0 auto;
       
+}
+.box{
+    background: lavender;
+    border-radius: 20px;
+    margin:10px;
+    padding: 20px;
 }
 /*SCROLLBAR*/
 /* width */
