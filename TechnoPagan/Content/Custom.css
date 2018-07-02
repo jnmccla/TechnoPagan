@@ -1,18 +1,26 @@
 ﻿.navbar{
     background: rebeccapurple;
+   border: 5px solid darkgrey;
+   border-radius:30px;
+   margin-left: 50px;
+   margin-right: 50px;
+   
    
 }
 .navbar-inverse .navbar-brand {
     color: antiquewhite;
+    
 }
 .navbar-inverse:hover .navbar-brand:hover{
     color: yellow;
 }
 body{
     background: lightgrey;
+    color: black;
 }
 .jumbotron {
     background: lavender;
+    
 }
 .carousel{
     width: 200px;
@@ -26,4 +34,24 @@ body{
 {
      margin: 0 auto;
       
+}
+/*SCROLLBAR*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: darkgrey; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rebeccapurple; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
 }
